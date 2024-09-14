@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pmpr StructuredData\n"
+"POT-Creation-Date: 2024-07-28 03:39+0330\n"
+"PO-Revision-Date: 2024-07-28 03:40+0330\n"
+"Last-Translator: pmpr.dev <pmpr.dev@gmail.com>\n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Source-Language: en\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: lib\n"
+"X-Poedit-SearchPathExcluded-1: *.js\n"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/FAQPage.php:29
+#: src/Pmpr/Module/StructuredData/MetaBox/FAQPage.php:91
+#: src/Pmpr/Module/StructuredData/Schema/CreativeWork/WebPage/FAQPage.php:42
+msgid "FAQ"
+msgstr "پرسش‌های رایج"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/FAQPage.php:95
+#: src/Pmpr/Module/StructuredData/Setting.php:85
+#: src/Pmpr/Module/StructuredData/Setting.php:155
+msgid "Items"
+msgstr "آیتم‌ها‌"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/FAQPage.php:98
+msgid "Question"
+msgstr "پرسش"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/FAQPage.php:103
+msgid "Answer"
+msgstr "پاسخ"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:44
+msgid "Dollar"
+msgstr "دلار"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:44
+msgid "Rial"
+msgstr "ریال"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:55
+msgid "How To DO"
+msgstr "نحوه انجام کار"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:56
+msgid "Cost"
+msgstr "هزینه"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:57
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:156
+msgid "Total Time"
+msgstr "زمان کل"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:58
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:203
+msgid "Steps"
+msgstr "مراحل"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:59
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:195
+msgid "Tools"
+msgstr "ابزار‌ها"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:60
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:187
+msgid "Supplies"
+msgstr "مقدمات"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:61
+#, php-format
+msgid "Step %s: %s"
+msgstr "مرحله %s: %s"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:152
+msgid "HOW-TO"
+msgstr "نحوه انجام کار"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:161
+msgid "Total Time Unit"
+msgstr "واحد زمان کل"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:163
+msgid "Minute"
+msgstr "دقیقه"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:164
+msgid "Hour"
+msgstr "ساعت"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:165
+msgid "Day"
+msgstr "روز"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:170
+msgid "Estimated Cost"
+msgstr "هزینه"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:175
+msgid "Currency"
+msgstr "واحد پولی"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:177
+msgid "USA Dollar"
+msgstr "دلار"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:178
+msgid "IRI Rial"
+msgstr "ریال"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:183
+msgid "Description"
+msgstr "شرح"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:190
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:198
+#: src/Pmpr/Module/StructuredData/Setting.php:70
+msgid "Name"
+msgstr "نام"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:206
+msgid "Begin tip lines with a # character."
+msgstr "خطوط مربوط به نکته را با # شروع کنید."
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:207
+msgid "Put each direction or tip at separate lines."
+msgstr "هر نکته یا دستور‌العمل را در خطوط جدا بنویسید."
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:212
+#: src/Pmpr/Module/StructuredData/Setting.php:88
+#: src/Pmpr/Module/StructuredData/Setting.php:159
+msgid "Title"
+msgstr "عنوان"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:216
+msgid "Instructions"
+msgstr "دستورالعمل‌ها"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:220
+msgid "Image"
+msgstr "تصویر"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:249
+#, php-format
+msgid "%s Hours"
+msgstr "%s ساعت"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:252
+#, php-format
+msgid "%s Days"
+msgstr "%s روز"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:256
+#, php-format
+msgid "%s Minutes"
+msgstr "%s دقیقه"
+
+#: src/Pmpr/Module/StructuredData/MetaBox/MetaBox.php:45
+#: src/Pmpr/Module/StructuredData/Setting.php:48
+#: src/Pmpr/Module/StructuredData/StructuredData.php:30
+msgid "Structured Data"
+msgstr "داده ساختار یافته"
+
+#: src/Pmpr/Module/StructuredData/Schema/CreativeWork/WebPage/ProfilePage.php:29
+#, php-format
+msgid "About %s"
+msgstr "درباره %s"
+
+#: src/Pmpr/Module/StructuredData/Schema/Custom/Tag.php:29
+#, php-format
+msgid "Tag %s"
+msgstr "برچسب %s"
+
+#: src/Pmpr/Module/StructuredData/Schema/Intangible/ItemList/BreadcrumbList.php:43
+msgid "Breadcrumb"
+msgstr "نشانگر صفحات (بردکرامب)"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:59
+msgid "Place Data"
+msgstr "داده محلی"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:63
+msgid "City"
+msgstr "شهر"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:67
+msgid "Cities"
+msgstr "شهر‌ها"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:77
+msgid "Intangible Data"
+msgstr "داده نا‌ملموس"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:81
+msgid "Contact Point"
+msgstr "نقطه تماس"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:92
+msgid "Email"
+msgstr "ایمیل"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:97
+msgid "Telephone"
+msgstr "تلفن"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:102
+msgid "Contact Type"
+msgstr "نوع ارتباط"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:106
+msgid "Product Supported"
+msgstr "پشتیبانی محصولات"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:110
+msgid "Serve Area"
+msgstr "منطقه خدمت"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:115
+msgid "Available Hours"
+msgstr "ساعات در دسترس"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:122
+msgid "Postal Address"
+msgstr "آدرس پستی"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:126
+msgid "Country"
+msgstr "کشور"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:130
+msgid "Locality"
+msgstr "محل"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:134
+msgid "Region"
+msgstr "منطقه"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:138
+msgid "Office Box Number"
+msgstr "کد پستی دفتر"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:142
+msgid "Postal Code"
+msgstr "کد پستی"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:146
+msgid "Street Address"
+msgstr "آدرس خیابان"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:151
+msgid "Opening Hours"
+msgstr "ساعات کاری"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:163
+msgid "Day of Weeks"
+msgstr "روز هفته"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:168
+msgid "Open Hour"
+msgstr "ساعات شروع به کار"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:172
+msgid "Close Hour"
+msgstr "ساعت پایان کار"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:180
+msgid "Creative Work Data"
+msgstr "دیتای کار خلاقانه"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:184
+msgid "How To"
+msgstr "نحوه انجام کار"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:188
+msgid "Placeholder Image For Steps"
+msgstr "تصویر پیشفرض"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:195
+msgid "Organization Data"
+msgstr "داده سازمانی"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:198
+msgid "General"
+msgstr "عمومی"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:202
+msgid "Logo"
+msgstr "لوگو"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:207
+msgid "Contact Points"
+msgstr "نقاط ارتباط"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:211
+msgid "Served Area"
+msgstr "منطقه خدمت رسانی"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:234
+msgid "Saturday"
+msgstr "شنبه"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:235
+msgid "Sunday"
+msgstr "یکشنبه"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:236
+msgid "Monday"
+msgstr "دوشنبه"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:237
+msgid "Tuesday"
+msgstr "سه‌شنبه"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:238
+msgid "Wednesday"
+msgstr "چارشنبه"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:239
+msgid "Thursday"
+msgstr "پنجشنبه"
+
+#: src/Pmpr/Module/StructuredData/Setting.php:240
+msgid "Friday"
+msgstr "جمعه"
+
+#: src/Pmpr/Module/StructuredData/StructuredData.php:272
+msgid "Structured Descriptor Document (JSON-LD format)"
+msgstr ""
+
+#~ msgid "Valid types: %s"
+#~ msgstr "انواع معتبر: %s"
+
+#~ msgid "General Setting"
+#~ msgstr "تنظیمات عمومی"
+
+#~ msgid "Enable Structured Data"
+#~ msgstr "فعال‌سازی داده ساختار یافنه"
+
