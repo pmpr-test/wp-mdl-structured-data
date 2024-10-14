@@ -1,32 +1,9 @@
 {
-  "name": "pmpr-mdl/wp-mdl-structured-data",
-  "type": "project",
-  "license": "proprietary",
-  "description": "Structured Data Module for Wordpress",
-  "keywords": [
-    "google-structured",
-    "structureddata",
-    "wordpress",
-    "package"
-  ],
-  "require": {
-    "php": ">=8.2",
-    "pmpr-cmn/wp-cmn-foundation": "~1.4"
-  },
   "prod-require": {
     "php": "8.2",
     "wordpress": "6.0",
     "wp-cmn-foundation": "latest"
   },
-  "autoload": {
-    "psr-4": {
-      "Pmpr\\Module\\StructuredData\\": "src/Pmpr/Module/StructuredData"
-    },
-    "files": [
-      "index.php"
-    ]
-  },
-  "minimum-stability": "dev",
   "tag": "1.4.6",
-  "timestamp": "1728394549"
+  "timestamp": "1728923381"
 }
