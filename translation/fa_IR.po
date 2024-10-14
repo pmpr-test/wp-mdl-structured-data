@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Pmpr StructuredData\n"
-"POT-Creation-Date: 2024-07-28 03:39+0330\n"
-"PO-Revision-Date: 2024-07-28 03:40+0330\n"
+"POT-Creation-Date: 2024-10-15 01:25+0330\n"
+"PO-Revision-Date: 2024-10-15 01:25+0330\n"
 "Last-Translator: pmpr.dev <pmpr.dev@gmail.com>\n"
 "Language-Team: \n"
 "Language: fa_IR\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.4.3\n"
+"X-Generator: Poedit 3.5\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-WPHeader: index.php\n"
 "X-Source-Language: en\n"
@@ -22,157 +22,157 @@ msgstr ""
 "X-Poedit-SearchPathExcluded-0: lib\n"
 "X-Poedit-SearchPathExcluded-1: *.js\n"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/FAQPage.php:29
-#: src/Pmpr/Module/StructuredData/MetaBox/FAQPage.php:91
+#: src/Pmpr/Module/StructuredData/MetaBox/FAQPage.php:28
+#: src/Pmpr/Module/StructuredData/MetaBox/FAQPage.php:90
 #: src/Pmpr/Module/StructuredData/Schema/CreativeWork/WebPage/FAQPage.php:42
 msgid "FAQ"
 msgstr "پرسش‌های رایج"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/FAQPage.php:95
+#: src/Pmpr/Module/StructuredData/MetaBox/FAQPage.php:94
 #: src/Pmpr/Module/StructuredData/Setting.php:85
 #: src/Pmpr/Module/StructuredData/Setting.php:155
 msgid "Items"
 msgstr "آیتم‌ها‌"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/FAQPage.php:98
+#: src/Pmpr/Module/StructuredData/MetaBox/FAQPage.php:97
 msgid "Question"
 msgstr "پرسش"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/FAQPage.php:103
+#: src/Pmpr/Module/StructuredData/MetaBox/FAQPage.php:102
 msgid "Answer"
 msgstr "پاسخ"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:44
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:45
 msgid "Dollar"
 msgstr "دلار"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:44
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:45
 msgid "Rial"
 msgstr "ریال"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:55
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:56
 msgid "How To DO"
 msgstr "نحوه انجام کار"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:56
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:57
 msgid "Cost"
 msgstr "هزینه"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:57
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:156
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:58
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:158
 msgid "Total Time"
 msgstr "زمان کل"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:58
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:203
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:59
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:205
 msgid "Steps"
 msgstr "مراحل"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:59
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:195
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:60
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:197
 msgid "Tools"
 msgstr "ابزار‌ها"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:60
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:187
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:61
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:189
 msgid "Supplies"
 msgstr "مقدمات"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:61
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:62
 #, php-format
 msgid "Step %s: %s"
 msgstr "مرحله %s: %s"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:152
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:154
 msgid "HOW-TO"
 msgstr "نحوه انجام کار"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:161
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:163
 msgid "Total Time Unit"
 msgstr "واحد زمان کل"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:163
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:165
 msgid "Minute"
 msgstr "دقیقه"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:164
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:166
 msgid "Hour"
 msgstr "ساعت"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:165
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:167
 msgid "Day"
 msgstr "روز"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:170
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:172
 msgid "Estimated Cost"
 msgstr "هزینه"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:175
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:177
 msgid "Currency"
 msgstr "واحد پولی"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:177
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:179
 msgid "USA Dollar"
 msgstr "دلار"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:178
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:180
 msgid "IRI Rial"
 msgstr "ریال"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:183
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:185
 msgid "Description"
 msgstr "شرح"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:190
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:198
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:192
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:200
 #: src/Pmpr/Module/StructuredData/Setting.php:70
 msgid "Name"
 msgstr "نام"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:206
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:208
 msgid "Begin tip lines with a # character."
 msgstr "خطوط مربوط به نکته را با # شروع کنید."
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:207
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:209
 msgid "Put each direction or tip at separate lines."
 msgstr "هر نکته یا دستور‌العمل را در خطوط جدا بنویسید."
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:212
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:214
 #: src/Pmpr/Module/StructuredData/Setting.php:88
 #: src/Pmpr/Module/StructuredData/Setting.php:159
 msgid "Title"
 msgstr "عنوان"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:216
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:218
 msgid "Instructions"
 msgstr "دستورالعمل‌ها"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:220
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:222
 msgid "Image"
 msgstr "تصویر"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:249
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:251
 #, php-format
 msgid "%s Hours"
 msgstr "%s ساعت"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:252
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:254
 #, php-format
 msgid "%s Days"
 msgstr "%s روز"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:256
+#: src/Pmpr/Module/StructuredData/MetaBox/HowTo.php:258
 #, php-format
 msgid "%s Minutes"
 msgstr "%s دقیقه"
 
-#: src/Pmpr/Module/StructuredData/MetaBox/MetaBox.php:45
-#: src/Pmpr/Module/StructuredData/Setting.php:48
-#: src/Pmpr/Module/StructuredData/StructuredData.php:30
+#: src/Pmpr/Module/StructuredData/MetaBox/MetaBox.php:48
+#: src/Pmpr/Module/StructuredData/Setting.php:49
+#: src/Pmpr/Module/StructuredData/StructuredData.php:33
 msgid "Structured Data"
 msgstr "داده ساختار یافته"
 
-#: src/Pmpr/Module/StructuredData/Schema/CreativeWork/WebPage/ProfilePage.php:29
+#: src/Pmpr/Module/StructuredData/Schema/CreativeWork/WebPage/ProfilePage.php:30
 #, php-format
 msgid "About %s"
 msgstr "درباره %s"
@@ -334,7 +334,7 @@ msgstr "پنجشنبه"
 msgid "Friday"
 msgstr "جمعه"
 
-#: src/Pmpr/Module/StructuredData/StructuredData.php:272
+#: src/Pmpr/Module/StructuredData/StructuredData.php:271
 msgid "Structured Descriptor Document (JSON-LD format)"
 msgstr ""
 
