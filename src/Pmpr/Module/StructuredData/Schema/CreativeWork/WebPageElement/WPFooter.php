@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             67705db64b53b             |
+    |             677fc597b818d             |
     |_______________________________________|
 */
- namespace Pmpr\Module\StructuredData\Schema\CreativeWork\WebPageElement; class WPFooter extends WebPageElement { public function __construct($goiqeyeaqmicqiky = true) { if ($goiqeyeaqmicqiky) { $this->ckqasoiiqqiuueki("\43\x73\151\x74\x65\137\146\x6f\x6f\164\145\162"); } parent::__construct($goiqeyeaqmicqiky); } }
+ namespace Pmpr\Module\StructuredData\Schema\CreativeWork\WebPageElement; class WPFooter extends WebPageElement { public function __construct($goiqeyeaqmicqiky = true) { if ($goiqeyeaqmicqiky) { $this->ckqasoiiqqiuueki("\43\163\x69\164\x65\137\x66\157\157\164\x65\x72"); } parent::__construct($goiqeyeaqmicqiky); } }
