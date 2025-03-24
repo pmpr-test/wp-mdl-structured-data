@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             67e166667eee4             |
+    |             67e1693ca0336             |
     |_______________________________________|
 */
  namespace Pmpr\Module\StructuredData\Schema\Intangible\StructuredValue; class OfferShippingDetails extends StructuredValue { protected ?MonetaryAmount $shippingRate = null; protected ?ShippingDeliveryTime $deliveryTime = null; public function ywekuyamiqyeiusg(?ShippingDeliveryTime $wkwskcqysckmgaku) : self { $this->deliveryTime = $wkwskcqysckmgaku; return $this; } public function ymwyioiigeqgywcw(?MonetaryAmount $gyqsakmgwigysioq) : self { $this->shippingRate = $gyqsakmgwigysioq; return $this; } }
