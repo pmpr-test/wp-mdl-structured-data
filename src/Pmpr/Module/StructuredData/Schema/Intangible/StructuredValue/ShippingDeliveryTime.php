@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             68e4dd3037f99             |
+    |             68e4de4a5f042             |
     |_______________________________________|
 */
  namespace Pmpr\Module\StructuredData\Schema\Intangible\StructuredValue; class ShippingDeliveryTime extends StructuredValue { protected ?string $cutoffTime = null; protected ?QuantitativeValue $handlingTime = null; protected ?QuantitativeValue $transitTime = null; public function dkwsisskyykmuikc(?QuantitativeValue $wgskekacemwykgqg) : self { $this->transitTime = $wgskekacemwykgqg; return $this; } public function yeamiakowcakmaug(?QuantitativeValue $ugawmyqckwyqgcom) : self { $this->handlingTime = $ugawmyqckwyqgcom; return $this; } public function uauuyucwmawqsgqy(?string $emacwmmauqaguqyu) : self { $this->cutoffTime = $emacwmmauqaguqyu; return $this; } }
